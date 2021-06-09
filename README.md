@@ -1,5 +1,5 @@
 # Zaxid Apps
-Download the latest game from [Google Play Market](https://play.google.com/store/apps/dev?id=6916256973280609239&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+Download and enjoy out games from [Google Play Market](https://play.google.com/store/apps/dev?id=6916256973280609239&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 ## Mobile Game Development
 
