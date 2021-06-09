@@ -7,4 +7,4 @@ Download the latest game from the Google Play Market [Releases](https://play.goo
 
 Any questions? Tell us via zaxidapps@gmail.com
 
-[Privacy Policy](https://github.com/zaxidapps/zaxidapps/privacy policy)
+[Privacy Policy](https://github.com/zaxidapps/zaxidapps/blob/main/privacy%20policy)
