@@ -3,7 +3,7 @@ Download and enjoy out games from [Google Play Market](https://play.google.com/s
 
 ## Mobile Game Development
 
-![Zaxid Apps Logo](logo.png)
+![Zaxid Apps Logo](logo4x.png)
 
 Any questions? Tell us via zaxidapps@gmail.com
 
