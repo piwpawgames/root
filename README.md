@@ -5,4 +5,4 @@ Download and play our games from [Google Play Market](https://play.google.com/st
 
 ![Zaxid Apps Logo](logosvg.svg)
 
-Any questions? Tell us via zaxidapps@gmail.com
+Any questions? Tell us via superlogiccorp@gmail.com
